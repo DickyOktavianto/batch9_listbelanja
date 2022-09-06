@@ -69,11 +69,11 @@ h3 {
   transition: 500ms;
   cursor: pointer;
 }
-.floating_button:active {
+/* .floating_button:active {
   background-color: white;
   color: blueviolet;
   box-shadow: inset 4px 5px 6px rgba(0, 0, 0, 0.226), inset -4px -5px 3px white;
-}
+} */
 #modal {
   width: 100vw;
   height: 100vh;
