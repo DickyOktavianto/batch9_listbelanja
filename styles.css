@@ -51,7 +51,7 @@ h3 {
   cursor: pointer;
 }
 .btn_splash:active {
-  background-color: rgba(137, 43, 226, 0.459);
+  background-color: red;
 }
 .floating_button {
   width: 50px;
